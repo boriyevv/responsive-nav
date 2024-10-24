@@ -57,7 +57,7 @@ nav > button{
   }
 
   .nav-menu{
-    display: block;
+    display: none;
     position: fixed;
     right: 5rem;
     top: 4rem;
